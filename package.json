@@ -1,0 +1,15 @@
+{
+  "name": "lab-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/",
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
